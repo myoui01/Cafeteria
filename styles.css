@@ -18,8 +18,9 @@
 
 .fundo {
     display: inline;
-    width:  34%;
-    margin-right: -480px;
+    width:  50%;
+    margin-right: -200px;
+    margin-top: 30px;
     float: right;
 }
 
